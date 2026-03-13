@@ -7,23 +7,26 @@ Dedicated RoadMap for Digital Forensics
 ## Content
 
 ### File System
-> Focusing on file systems such as MBR, GPT, FAT32, NTFS, EXT.
+- Focusing on file systems such as MBR, GPT, FAT32, NTFS, EXT.
 
 ### Windows Forensics
-> 
+- Analyzing OS artifacts such as Registry, Event Logs, Prefetch, Amcache to track user activity.
 
 ### Memory Forensics
-> Capturing and analyzing volatile environments where data rests.
+- Capturing and analyzing volatile environments where data rests.
 
-### Mobile FOrensics
->
+### Mobile Forensics
+- Investigating mobile-specific data like SQLite DBs, Plists and application-level artifacts (WhatsApp, etc.).
 
 ### Linux/Unix Based Systems
->
+- Diving into server-side traces like Auth.log, Bash History and Cron jobs.
 
 ### Network Forensics
->
-
+- Examining data in motion by analyzing PCAP files and protocols like HTTP, DNS, SMB.
 
 ---
 ## Tools
+
+---
+
+## 1- File System
