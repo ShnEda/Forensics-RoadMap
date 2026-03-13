@@ -7,7 +7,23 @@ Dedicated RoadMap for Digital Forensics
 ## Content
 
 ### File System
+> Focusing on file systems such as MBR, GPT, FAT32, NTFS, EXT.
+
 ### Windows Forensics
+> 
+
 ### Memory Forensics
+> Capturing and analyzing volatile environments where data rests.
+
+### Mobile FOrensics
+>
+
 ### Linux/Unix Based Systems
+>
+
 ### Network Forensics
+>
+
+
+---
+## Tools
